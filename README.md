@@ -11,7 +11,7 @@ I have broken this down into the following steps
 |hapi-tut-monolith-02a|Add services - customers and products| [02A](https://github.com/quapaw/hapi-tut-monolith-02a)|
 |hapi-tut-monolith-02b|Adding Glue and externalizing config| [02B](https://github.com/quapaw/hapi-tut-monolith-02b)|
 |**hapi-tut-monolith-02c**|Moving services into their own folders| [02C](https://github.com/quapaw/hapi-tut-monolith-02c)|
-|hapi-tut-monolith-03-main|Moved service into own project.  This pulls the services in| [03-main](https://github.com/quapaw/hapi-tut-monolith-03-main)|
+|hapi-tut-monolith-03-main|Moved service into own project. Instructions here| [03-main](https://github.com/quapaw/hapi-tut-monolith-03-main)|
 |hapi-tut-monolith-03-customer|Just the customer service| [03-customers](https://github.com/quapaw/hapi-tut-monolith-03-customers)|
 |hapi-tut-monolith-03-products|Just the produce service| [03-products](https://github.com/quapaw/hapi-tut-monolith-03-products)|
 
